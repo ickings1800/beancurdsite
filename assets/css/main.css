@@ -71,16 +71,16 @@ html,body {
 }
 
 #introduction {
-    font-family: "Times New Roman", Times, serif;
-    line-height:1.8em;
+    font-family: 'Libre Baskerville', serif;
+    line-height:2em;
+	font-size:1.5em;
     color:black;
     padding-top:1rem;
     padding-bottom:1rem;
-    letter-spacing:0.4px;
 }
 
 #authentic {
-    font-family: "Times New Roman", Times, serif;
+    font-family: 'Libre Baskerville', serif;
     font-size:3em;
     line-height:1.8em;
     color:black;
