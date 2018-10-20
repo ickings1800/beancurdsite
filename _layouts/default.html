@@ -1,0 +1,68 @@
+<html lang="en">
+<head>
+	<title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre-icons.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre-exp.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+	<link rel="shortcut icon" href="/assets/images/Company_Logo.ico" />
+</head>
+
+<body>
+<div class="main-container">
+    <div class="container-body">
+    <div class="columns menu-nav">
+        <div class="column col-xs-12 col-4">
+            <a href="/index">
+                <img id="logo" src="/assets/images/Company_Logo.svg">
+            </a>
+        </div>
+        <ul class="column col-xs-12 show-xs">
+            <li class="d-inline-block"><a class="text-uppercase" href="/index">home</a></li>
+            <li class="d-inline-block"><a class="text-uppercase" href="/about">about us</a></li>
+            <li class="d-inline-block"><a class="text-uppercase" href="/products">products</a></li>
+            <li class="d-inline-block"><a class="text-uppercase" href="/contact">contact</a></li>
+        </ul>
+        <ul class="column col-8 hide-xs">
+            <li class="d-inline float-right"><a class="text-uppercase" href="/contact">contact</a></li>
+            <li class="d-inline float-right"><a class="text-uppercase" href="/products">products</a></li>
+            <li class="d-inline float-right"><a class="text-uppercase" href="/about">about us</a></li>
+            <li class="d-inline float-right"><a class="text-uppercase" href="/index">home</a></li>
+        </ul>
+        <div class="divider column col-12"></div>
+    </div>
+    <div class="columns">
+        <div class="column col-9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto py-2">
+        {{ content }}
+        </div>
+    </div>
+    </div>
+
+    <footer>
+        <div class="columns col-gapless container-footer">
+            <div class="column col-6">
+                <h5>pages</h5>
+                <ul class="nav">
+                    <li class="nav-item"><a href="/index">home</a></li>
+                    <li class="nav-item"><a href="/about">about us</a></li>
+                    <li class="nav-item"><a href="/products">products</a></li>
+                    <li class="nav-item"><a href="/contact">contact</a></li>
+                </ul>
+            </div>
+            <div class="column col-6 py-2">
+                <a class="btn btn-primary btn-lg text-uppercase float-right" id="contact" href="/contact/">contact us</a>
+            </div>
+            <div class="column col-12">
+                <div class="py-2" id="copyright">
+                    © 2018 SUN-UP BEAN FOOD MFG PTE LTD
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+</body>
+
+</html>
