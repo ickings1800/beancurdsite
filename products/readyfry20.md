@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | Ready Fried Tofu (20 pcs)
 layout: default
+permalink: /products/readyfry20/
 ---
 
 {% include /products/readyfry20.html %}

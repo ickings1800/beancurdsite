@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | Products
 layout: default
+permalink: /products/
 ---
 
 {% include products.html %}

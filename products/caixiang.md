@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | CaiXiang Tofu
 layout: default
+permalink: /products/caixiang/
 ---
 
 {% include /products/caixiang.html %}

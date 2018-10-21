@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | Deep Fried Tofu
 layout: default
+permalink: /products/deepfry/
 ---
 
 {% include /products/deepfry.html %}

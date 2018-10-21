@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | Pressed Tofu
 layout: default
+permalink: /products/pressed/
 ---
 
 {% include /products/pressed.html %}

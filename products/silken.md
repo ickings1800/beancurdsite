@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | Japanese Silken Tofu
 layout: default
+permalink: /products/silken/
 ---
 
 {% include /products/silken.html %}

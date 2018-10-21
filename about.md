@@ -4,6 +4,7 @@
 
 title: Sun-Up Bean Food Manufacturing | About us
 layout: default
+permalink: /about/
 ---
 
 {% include about.html %}
