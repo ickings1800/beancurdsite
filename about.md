@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | About us
 layout: default
 permalink: /about/
-description: Find out how our company was established and what we aim to achieve for our customers.
+description: Find out how our company was established and what we aim to achieve for our customers. Contact us to request for a quote.
 ---
 
 {% include about.html %}

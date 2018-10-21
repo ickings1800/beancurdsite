@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | Contact
 layout: default
 permalink: /contact/
-Description: Do feel free to contact us regarding enquiries or request quotations for our product ranges.
+description: Do feel free to call us or send an email regarding enquiries or request quotations for our product ranges.
 ---
 
 {% include contact.html %}
