@@ -5,6 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | Home
 layout: default
 permalink: /
+description: We're a tofu supplier and manufacturer located in Singapore with products such as pressed or silken tofu. Contact us to request for a quote. 
 ---
 
 {% include index.html %}
