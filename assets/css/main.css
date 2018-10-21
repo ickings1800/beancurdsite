@@ -70,14 +70,28 @@ html,body {
     margin-top:5vh;
 }
 
-#introduction {
-    font-family: 'Libre Baskerville', serif;
-    line-height:2em;
-	font-size:1.5em;
-    color:black;
-    padding-top:1rem;
-    padding-bottom:1rem;
+@media only screen and (max-width: 600px) {
+	#introduction {
+		font-family: 'Libre Baskerville', serif;
+		line-height:2em;
+		font-size:4vw;
+		color:black;
+		padding-top:1rem;
+		padding-bottom:1rem;
+	}
 }
+
+@media only screen and (min-width: 600px) {
+	#introduction {
+		font-family: 'Libre Baskerville', serif;
+		line-height:2em;
+		font-size:1.5em;
+		color:black;
+		padding-top:1rem;
+		padding-bottom:1rem;
+	}
+} 
+
 
 #authentic {
     font-family: 'Libre Baskerville', serif;
