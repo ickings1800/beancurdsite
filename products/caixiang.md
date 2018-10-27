@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | CaiXiang Tofu
 layout: default
 permalink: /products/caixiang/
-description: CaiXiang Tofu is a product targeted at restaurant-grade chefs who prepare their beancurd in-house, so they can focus on the most important parts of the dish - The Sauce. Find out more about it here.
+description: Cai Xiang Tofu is a product catered for the convenience of restaurant grade chefs producing in-house beancurd. It aims to speed up and simplify the process so that they can focus on sauce preparation.
 ---
 
 {% include /products/caixiang.html %}

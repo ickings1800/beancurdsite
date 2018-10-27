@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | About us
 layout: default
 permalink: /about/
-description: Find out how our company was established and what we aim to achieve for our customers. Contact us to request for a quote.
+description: We are a Singapore-based company that manufactures and supply soybean products such as deep fried, silken and pressed tofu. Established in 2003, we initially manufactured traditional pressed cut tofu and deep fried tofu in Singapore.
 ---
 
 {% include about.html %}

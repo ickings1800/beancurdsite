@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | Ready Fried Tofu (20 pcs)
 layout: default
 permalink: /products/readyfry20/
-description: For customers who have tried the three pack version, this version is for customers who prefer to order in bulk. It is vacuum packed to ensure freshness and quality. Find out more about it here.
+description: Ready Fried Tofu is a new product targeted for customers who deep fry their beancurd. This product is pre-fried by us to ensure consistent quality and freshness before sending to our customers. This version is for customers who prefer to order in bulk. It is vacuum packed to ensure freshness and quality.
 ---
 
 {% include /products/readyfry20.html %}

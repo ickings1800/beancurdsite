@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | Deep Fried Tofu
 layout: default
 permalink: /products/deepfry/
-description: Deep Fried Tofu is our best selling product. We use soy milk rich in protein to ensure it is suitable for deep frying purposes. Find out more about it here.
+description: The bean curd is manufactured from rich-protein soy milk. When deep fried, the bean curd produces a rich aroma and possesses a crispy outer texture, complimented with a tau huey-like texture on the inside.
 ---
 
 {% include /products/deepfry.html %}

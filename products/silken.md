@@ -5,7 +5,7 @@
 title: Sun-Up Bean Food Manufacturing | Japanese Silken Tofu
 layout: default
 permalink: /products/silken/
-description: Japanese Silken Tofu is one of our featured products. Used for dishes such as miso soup, our silken tofu has a unique texture and flavour and is easy to prepare. Find more about it here.
+description: Tenderness of our silken tofu is ideally used in dishes such as miso soup, where texture, flavour, and taste are crucial. Using the improved technology of our machines, we also ensure that consumers are able to remove the bean curd effortlessly from its packaging.
 ---
 
 {% include /products/silken.html %}
