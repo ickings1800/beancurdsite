@@ -23,6 +23,19 @@ html,body {
  position: relative;
 }
 
+h1 {
+	font-size:1.4rem;
+}
+
+h2 {
+	font-size:1rem;
+}
+
+.h3, h3 {
+	
+	font-size:0.8rem;
+}
+
 .main-container {
     min-height:100vh;
     overflow: hidden;
