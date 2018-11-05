@@ -11,7 +11,7 @@ a, u {
     color:#000000;
 }
 
-a:hover, .nav .nav-item a:hover, .menu-nav ul a:hover
+a:hover, .nav .nav-item a:hover
 {
     color:rgba(139, 0, 0, 1);
     text-decoration:none;
@@ -60,12 +60,18 @@ h2 {
 }
 
 
-.menu-nav ul a {
-    color:#333333;
-    font-weight:700;
-    font-size:0.55rem;
-    padding-right:.5rem;
-    letter-spacing:0.4px;
+.menu-nav {
+	text-align:center;
+	font-weight:700;
+}
+
+.menu-nav li a {
+	font-size:0.55rem;
+}
+
+.menu-nav-cn {
+	font-weight:700;
+	text-align:center;
 }
 
 #logo {
@@ -92,6 +98,16 @@ h2 {
 		padding-top:1rem;
 		padding-bottom:1rem;
 	}
+	
+	#introduction_cn {
+		font-family: 'Libre Baskerville', serif;
+		line-height:2em;
+		font-size:4.5vw;
+		font-weight:700;
+		color:black;
+		padding-top:1rem;
+		padding-bottom:1rem;
+	}
 }
 
 @media only screen and (min-width: 600px) {
@@ -99,6 +115,16 @@ h2 {
 		font-family: 'Libre Baskerville', serif;
 		line-height:2em;
 		font-size:1.5em;
+		color:black;
+		padding-top:1rem;
+		padding-bottom:1rem;
+	}
+	
+	#introduction_cn {
+		font-family: 'Libre Baskerville', serif;
+		line-height:2em;
+		font-size:1.5em;
+		font-weight:700;
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
@@ -116,6 +142,16 @@ h2 {
 }
 
 
+#authentic_cn {
+    font-family: 'Libre Baskerville', serif;
+    font-size:3em;
+	font-weight:700;
+    line-height:1.8em;
+    color:black;
+    padding-top:0.5rem;
+    padding-bottom:0.5rem;
+}
+
 #copyright {
     font-weight:700;
     font-size:0.8em;
@@ -125,9 +161,32 @@ h2 {
 .btn.btn-primary {
     background:rgba(139, 0, 0, 1);
     border-color:rgba(255, 255, 255, 0);
-    font-size:0.55rem;
+    font-size:0.65rem;
     letter-spacing:2.5px;
     font-weight:600;
+}
+
+.btn.btn-secondary {
+    background:white;
+    border-color:rgba(139, 0, 0, 1);
+	color:rgba(139, 0, 0, 1);
+    font-size:0.65rem;
+    letter-spacing:2.5px;
+    font-weight:600;
+}
+
+.btn.btn-secondary:focus,.btn.btn-secondary:hover {
+	background:rgba(139, 0, 0, 1);
+	border-color:rgba(255, 255, 255, 0);
+	color:white;
+}
+
+.btn.btn-link {
+	color:black;
+}
+
+.btn.btn-link:focus,.btn.btn-link:hover {
+	color:rgba(139, 0, 0, 1);
 }
 
 .btn.btn-primary:focus, .btn.btn-primary:hover {
@@ -159,7 +218,7 @@ ul {
 }
 
 li {
-    line-height:95%;
+    line-height:100%;
 }
 
 a {

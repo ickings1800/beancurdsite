@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="zh-Hans">
+<head>
+	<title>{{ page.title }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+    <meta charset="UTF-8">
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre-icons.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/spectre-exp.min.css" />
+    <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
+	<link rel="shortcut icon" href="/assets/images/Company_Logo.ico" />
+	<link href="https://fonts.googleapis.com/css?family=Libre+Baskerville" rel="stylesheet">
+	<link rel="canonical" href="{{ site.url | append: page.url }}">
+	<meta name="description" content="{{ page.description }}">
+</head>
+
+<body>
+<div class="main-container">
+    <div class="container-body">
+    <div class="columns menu-nav-cn">
+        <div class="column col-4">
+            <a href="/chinese/">
+                <img class="float-left" id="logo" src="/assets/images/Company_Logo.svg" alt="Sun-Up Company Logo">
+            </a>
+        </div>
+		<div class="column col-8">
+			<div class="columns">
+				<div class="column col-12">
+					<a class="btn btn-secondary btn-sm text-uppercase float-right" href="/index/">english</a>
+				</div>
+				<ul class="column col-12 menu-nav my-1 hide-xs">
+					<li class="d-inline-block float-right"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/contact/">联络</a></li>
+					<li class="d-inline-block float-right"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/products/">产品种类</a></li>
+					<li class="d-inline-block float-right"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/about/">公司详情</a></li>
+					<li class="d-inline-block float-right"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/">首页</a></li>
+				</ul>
+			</div>
+		</div>
+		<ul class="column col-xs-12 menu-nav-cn my-1 show-xs">
+			<li class="d-inline-block"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/">首页</a></li>
+			<li class="d-inline-block"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/about/">公司详情</a></li>
+			<li class="d-inline-block"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/products/">产品种类</a></li>
+			<li class="d-inline-block"><a class="text-uppercase btn btn-sm btn-link" href="/chinese/contact/">联络</a></li>
+		</ul>
+        <div class="divider column col-12"></div>
+    </div>
+    <div class="columns">
+        <div class="column col-9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto py-2">
+        {{ content }}
+        </div>
+    </div>
+    </div>
+
+    <footer>
+        <div class="columns col-gapless container-footer">
+            <div class="column col-6">
+                <h2>网页</h2>
+                <ul class="nav">
+                    <li class="nav-item"><a href="/chinese/">首页</a></li>
+                    <li class="nav-item"><a href="/chinese/about/">公司详情</a></li>
+                    <li class="nav-item"><a href="/chinese/products/">产品种类</a></li>
+                    <li class="nav-item"><a href="/chinese/contact/">联络</a></li>
+                </ul>
+            </div>
+            <div class="column col-6 py-2">
+                <a class="btn btn-primary btn-lg text-uppercase float-right" id="contact" href="/chinese/contact/">联络我们</a>
+            </div>
+            <div class="column col-12">
+                <div class="py-2" id="copyright">
+                    © 2018 晨阳食品私人有限公司
+                </div>
+            </div>
+        </div>
+    </footer>
+</div>
+
+</body>
+
+</html>
