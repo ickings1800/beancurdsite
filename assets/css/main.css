@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'fzcusong-b09sregular';
+    src: url('/assets/fonts/fzcusong-b09s-webfont.woff2') format('woff2'),
+         url('/assets/fonts/fzcusong-b09s-webfont.woff') format('woff'),
+         url('/assets/fonts/fzcusong-b09s-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 * {
  box-sizing: border-box;
 }
@@ -100,10 +110,10 @@ h2 {
 	}
 	
 	#introduction_cn {
-		font-family: 'Libre Baskerville', serif;
+		font-family: 'fzcusong-b09sregular';
 		line-height:2em;
 		font-size:4.5vw;
-		font-weight:700;
+		font-weight:normal;
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
@@ -121,10 +131,10 @@ h2 {
 	}
 	
 	#introduction_cn {
-		font-family: 'Libre Baskerville', serif;
+		font-family: 'fzcusong-b09sregular';
 		line-height:2em;
 		font-size:1.5em;
-		font-weight:700;
+		font-weight:normal;
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
@@ -143,9 +153,9 @@ h2 {
 
 
 #authentic_cn {
-    font-family: 'Libre Baskerville', serif;
+	font-family: 'fzcusong-b09sregular';
     font-size:3em;
-	font-weight:700;
+	font-weight:normal;
     line-height:1.8em;
     color:black;
     padding-top:0.5rem;
