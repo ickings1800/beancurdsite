@@ -10,6 +10,7 @@
     <link rel="stylesheet" type="text/css" href="/assets/css/main.css" />
 	<link rel="shortcut icon" href="/assets/images/Company_Logo.ico" />
 	<link rel="canonical" href="{{ site.url | append: page.url }}">
+	<script src="/assets/js/main.js"></script>
 	<meta name="description" content="{{ page.description }}">
 </head>
 <body>
@@ -42,22 +43,30 @@
 		</ul>
         <div class="divider column col-12"></div>
     </div>
-    <div class="columns">
-        <div class="column col-9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto py-2">
-			<div class="columns">
-			<div class="column col-xs-7 col-sm-7 col-5 col-mx-auto product-img-div">
-				<img src="{{ page.product-image-path }}" class="img-responsive" alt="{{ page.product-image-text }}" />
+		<div class="column col-10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
+			<div class="columns prod-col">
+				<div class="column col-sm-12 col-5 col-mx-auto">
+					<img id="large-img" class="centered img-responsive" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
+					<ul class="py-2 thumbnails d-flex">
+					{% for thumbnail in page.images %}
+						<li class="d-inline-block">
+							<img src="{{ thumbnail.thumbnail_path }}" 
+							class="img-responsive" 
+							alt="{{ thumbnail.alt-text }}" 
+							onClick="switchImg('{{ thumbnail.image_path }}', '{{ thumbnail.alt-text }}' );"/>
+						</li>
+					{% endfor %}
+					</ul>
+				</div>
+				<div class="column col-sm-12 col-6 col-mx-auto">
+					<h1>{{ page.product-title }}</h1>
+					<h2 class="text-gray sub-head">{{ page.product-subtitle }}</h2>
+					<div class="divider"></div>
+					{{ content }}
+					<a href="/chinese/contact/" class="btn btn-primary btn-lg fill-width text-uppercase my-2">询问价格</a>
+				</div>
 			</div>
-			<div class="column col-xs-12 col-sm-12 col-6 py-2 col-mx-auto">
-				<h1>{{ page.product-title }}</h1>
-				<h2 class="text-gray sub-head">{{ page.product-subtitle }}</h2>
-				<div class="divider"></div>
-				{{ content }}
-				<a href="/chinese/contact/" class="btn btn-primary btn-lg fill-width text-uppercase my-2">询问价格</a>
-			</div>
-			</div>
-        </div>
-    </div>
+		</div>
     </div>
 
     <footer>

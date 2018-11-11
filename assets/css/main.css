@@ -253,10 +253,7 @@ a {
     color:inherit;
 }
 
-.product-detail-img {
-    max-width:15em;
-    width:100%;
-}
+
 
 .product-img-div {
     display:flex;
@@ -268,4 +265,30 @@ a {
 .prod-img {
     float:right;
     width:50%;
+}
+
+.prod-col {
+	align-items:center;
+	padding-top:3em;
+}
+
+.thumbnails {
+	justify-content:center;
+}
+
+
+.thumbnails li {
+	margin:.4rem;
+}
+
+.thumbnails li img {
+	cursor:pointer;
+	width:4em;
+	height:3em;
+	object-fit:contain;
+}
+
+#large-img {
+	width:80%;
+	border-radius:4px;
 }

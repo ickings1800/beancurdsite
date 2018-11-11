@@ -10,6 +10,19 @@ product-title: 煎炸豆腐
 product-subtitle: 适宜油炸与煎炸
 product-image-text: 晨阳煎炸豆腐青盒
 product-image-path: /assets/images/Products/DeepFry/DeepFried.png
+images:
+  - image_path: /assets/images/Products/DeepFry/DeepFried.png
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/DeepFried_tn.jpg
+    alt-text: Sun-Up Deep Fried Tofu Beancurd
+  - image_path: /assets/images/Products/DeepFry/carousel/DSC01433-compressor.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01433-compressor_tn.JPG
+    alt-text: Sun-Up Deep Fried Tofu Beancurd Background Product With Rice
+  - image_path: /assets/images/Products/DeepFry/carousel/DSC01443-compressor.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01443-compressor_tn.JPG
+    alt-text: Sun-Up Deep Fried Tofu Beancurd Background With Rice
+  - image_path: /assets/images/Products/DeepFry/carousel/IMG_8641-compressor.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/IMG_8641-compressor_tn.JPG
+    alt-text: Sun-Up Deep Fried Tofu Beancurd Chilli With Product
 ---
 
 ### 产品说明:
