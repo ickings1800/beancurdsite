@@ -49,12 +49,12 @@
 		<div class="column col-10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
 			<div class="columns prod-col">
 				<div class="column col-sm-12 col-5 col-mx-auto">
-					<img id="large-img" class="centered img-responsive" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
+					<img id="large-img" class="centered img-responsive rounded" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
 					<ul class="py-2 thumbnails d-flex">
 					{% for thumbnail in page.images %}
 						<li class="d-inline-block">
 							<img src="{{ thumbnail.thumbnail_path }}" 
-							class="img-responsive" 
+							class="img-responsive rounded" 
 							alt="{{ thumbnail.alt-text }}" 
 							onClick="switchImg('{{ thumbnail.image_path }}', '{{ thumbnail.alt-text }}' );"/>
 						</li>

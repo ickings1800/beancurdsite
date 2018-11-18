@@ -9,9 +9,9 @@ description: 煎炸豆腐是用特浓豆浆制成。油炸时，散发出浓郁�
 product-title: 煎炸豆腐
 product-subtitle: 适宜油炸与煎炸
 product-image-text: 晨阳煎炸豆腐青盒
-product-image-path: /assets/images/Products/DeepFry/DeepFried.png
+product-image-path: /assets/images/Products/DeepFry/DeepFried.jpeg
 images:
-  - image_path: /assets/images/Products/DeepFry/DeepFried.png
+  - image_path: /assets/images/Products/DeepFry/DeepFried.jpeg
     thumbnail_path: /assets/images/Products/DeepFry/carousel/DeepFried_tn.jpg
     alt-text: Sun-Up Deep Fried Tofu Beancurd
   - image_path: /assets/images/Products/DeepFry/carousel/DSC01433-compressor.JPG
@@ -32,7 +32,7 @@ images:
 
 
 ### 产品详情:
-![晨阳煎炸豆腐盘上](/assets/images/Products/DeepFry/productthumbnail.png){:class="img-responsive prod-img"}
+![晨阳煎炸豆腐盘上](/assets/images/Products/DeepFry/productthumbnail.jpeg){:class="img-responsive prod-img"}
 - 净重：300克
 - 无防腐剂
 - 配料：
