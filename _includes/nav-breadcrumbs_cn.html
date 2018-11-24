@@ -1,6 +1,5 @@
 <nav>
     <ol class="breadcrumb" vocab="http://schema.org/" typeof="BreadcrumbList">
-
 	{% for crumb in breadcrumbs offset:1 %}
 	{% if forloop.last %}
 	<li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
@@ -13,10 +12,9 @@
 	<li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
             <a property="item" typeof="WebPage" href="{{ crumb.url | relative_url }}">
 		<span property="name">{{ crumb.title }}</span>
-            </a>
+	    </a>
 	    <meta property="position" content="{{ forloop.index }}" />
 	</li>
 	{% endfor %}
-
     </ol>
 </nav>

@@ -1,22 +1,20 @@
 <nav>
     <ol class="breadcrumb" vocab="http://schema.org/" typeof="BreadcrumbList">
-
 	{% for crumb in breadcrumbs %} 
 	{% if forloop.last %}
 	<li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
 	    <a class="inactive-link" property="item" typeof="WebPage" href="{{ crumb.url }}">
 		<span property="name">{{ crumb.title }}</span>
-            </a>
+	    </a>
             <meta property="position" content="{{ crumb.position }}" />
-      </li>
-      {% continue %} {% endif %}
-      <li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
-         <a property="item" typeof="WebPage" href="{{ crumb.url }}">
-             <span property="name">{{ crumb.title }}</span>
-         </a>
-	 <meta property="position" content="{{ crumb.position }}" />
-      </li>
-      {% endfor %}
-
-   </ol>
+	</li>
+	{% continue %} {% endif %}
+	<li class="breadcrumb-item" property="itemListElement" typeof="ListItem">
+            <a property="item" typeof="WebPage" href="{{ crumb.url }}">
+		<span property="name">{{ crumb.title }}</span>
+	    </a>
+	    <meta property="position" content="{{ crumb.position }}" />
+	</li>
+	{% endfor %}
+    </ol>
 </nav>
