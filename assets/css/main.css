@@ -33,15 +33,22 @@ html,body {
  position: relative;
 }
 
+h1, h2, h3, h4 {
+    color:black;
+}
+
+
 @media only screen and (max-width:480px) {
     h1 {
 	font-size:6.5vw;
+	font-weight:700;
     }    
 }
 
 @media only screen and (min-width:480px) {
     h1 {
 	font-size:1.4em;
+	font-weight:700;
     }    
 }
 
@@ -131,6 +138,7 @@ h2 {
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
+		font-weight:500;
 	}
 	
 	#introduction_cn {
@@ -141,6 +149,7 @@ h2 {
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
+		font-weight:500;
 	}
 }
 
@@ -152,6 +161,7 @@ h2 {
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
+		font-weight:500;
 	}
 	
 	#introduction_cn {
@@ -162,6 +172,7 @@ h2 {
 		color:black;
 		padding-top:1rem;
 		padding-bottom:1rem;
+		font-weight:500;
 	}
 } 
 
@@ -318,7 +329,7 @@ a {
 
 @media only screen and (max-width: 480px) {
     .breadcrumb {
-	font-size:4vw;
+	font-size:3.5vw;
     }
 }
 
@@ -335,4 +346,8 @@ a {
 .inactive-link {
     pointer-events:none;
     cursor: default;
+}
+
+.footer-header {
+    color:white;
 }
