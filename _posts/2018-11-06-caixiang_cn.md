@@ -9,7 +9,7 @@ description: 菜香豆腐是专为餐厅及厨师而打造的产品。在厨房�
 product-title: 菜香豆腐
 product-subtitle: 适宜铁板烧
 product-image-text: 晨阳菜香豆腐
-product-image-path: /assets/images/Products/CaiXiang/CaiXiang.jpeg
+product-image-path: /assets/images/Products/CaiXiang/CaiXiang.jpg
 ---
 
 ### 产品说明:

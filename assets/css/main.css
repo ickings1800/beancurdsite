@@ -293,7 +293,7 @@ a {
 
 .prod-col {
 	align-items:center;
-	padding-top:3em;
+	padding-top:1.5em;
 }
 
 .thumbnails {
@@ -302,13 +302,13 @@ a {
 
 
 .thumbnails li {
-	margin:.4rem;
+	margin:.1rem;
 }
 
 .thumbnails li img {
 	cursor:pointer;
-	width:4em;
-	height:3em;
+	width:3.5em;
+	height:auto;
 	object-fit:contain;
 }
 

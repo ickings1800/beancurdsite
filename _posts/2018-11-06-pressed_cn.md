@@ -9,12 +9,12 @@ description: 板豆腐最适于蒸或汤类菜肴使用，例如酿豆腐。经�
 product-title: 板豆腐
 product-subtitle: 适宜汤与蒸
 product-image-text: 晨阳板豆腐
-product-image-path: /assets/images/Products/Pressed/Pressed.jpeg
+product-image-path: /assets/images/Products/Pressed/Pressed.jpg
 images:
-  - image_path: /assets/images/Products/Pressed/Pressed.jpeg
+  - image_path: /assets/images/Products/Pressed/Pressed.jpg
     thumbnail_path: /assets/images/Products/Pressed/carousel/Pressed_tn.jpg
     alt-text: Sun-Up Pressed Tofu
-  - image_path: /assets/images/Products/Pressed/carousel/DSC01447-compressor.jpg
+  - image_path: /assets/images/Products/Pressed/carousel/DSC01447.jpg
     thumbnail_path: /assets/images/Products/Pressed/carousel/DSC01447_tn.jpg
     alt-text: Sun-Up Deep Fried Pressed Tofu Beancurd Background Product
 ---

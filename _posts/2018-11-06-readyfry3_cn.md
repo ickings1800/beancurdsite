@@ -9,7 +9,7 @@ description: 预备炸豆腐是我们最新的产品，目的是来协助厨师�
 product-title: 预备炸豆腐（3条装）
 product-subtitle: 适宜焖与炖
 product-image-text: 晨阳预备炸豆腐（3条装）
-product-image-path: /assets/images/Products/ReadyFriedBox/ReadyFriedBox.jpeg
+product-image-path: /assets/images/Products/ReadyFriedBox/ReadyFriedBox.jpg
 ---
 ### 产品说明:
 预备炸豆腐是我们最新的产品，目的是来协助厨师快速的准备使用炸豆腐的菜肴。

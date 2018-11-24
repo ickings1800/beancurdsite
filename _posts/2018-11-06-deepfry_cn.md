@@ -9,19 +9,19 @@ description: 煎炸豆腐是用特浓豆浆制成。油炸时，散发出浓郁�
 product-title: 煎炸豆腐
 product-subtitle: 适宜油炸与煎炸
 product-image-text: 晨阳煎炸豆腐青盒
-product-image-path: /assets/images/Products/DeepFry/DeepFried.jpeg
+product-image-path: /assets/images/Products/DeepFry/DeepFried.jpg
 images:
-  - image_path: /assets/images/Products/DeepFry/DeepFried.jpeg
+  - image_path: /assets/images/Products/DeepFry/DeepFried.jpg
     thumbnail_path: /assets/images/Products/DeepFry/carousel/DeepFried_tn.jpg
     alt-text: Sun-Up Deep Fried Tofu Beancurd
-  - image_path: /assets/images/Products/DeepFry/carousel/DSC01433-compressor.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01433-compressor_tn.JPG
+  - image_path: /assets/images/Products/DeepFry/carousel/DSC01433.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01433_tn.jpg
     alt-text: Sun-Up Deep Fried Tofu Beancurd Background Product With Rice
-  - image_path: /assets/images/Products/DeepFry/carousel/DSC01443-compressor.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01443-compressor_tn.JPG
+  - image_path: /assets/images/Products/DeepFry/carousel/DSC01443.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01443_tn.jpg
     alt-text: Sun-Up Deep Fried Tofu Beancurd Background With Rice
-  - image_path: /assets/images/Products/DeepFry/carousel/IMG_8641-compressor.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/IMG_8641-compressor_tn.JPG
+  - image_path: /assets/images/Products/DeepFry/carousel/IMG_8641.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/IMG_8641_tn.jpg
     alt-text: Sun-Up Deep Fried Tofu Beancurd Chilli With Product
 ---
 
