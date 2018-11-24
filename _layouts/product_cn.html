@@ -1,39 +1,41 @@
 <!DOCTYPE html>
 <html lang="zh-Hans">
-  {% include header_cn.html %}
-  <body>
-    <div class="main-container">
-	<div class="container-body">
-	    {% include nav_cn.html %}
-	    <div class="column col-10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
-		{% include nav-breadcrumbs_cn.html %}
-	  <div class="columns prod-col">
-	    <div class="column col-sm-12 col-5 col-mx-auto">
-	      <img id="large-img" class="centered img-responsive rounded" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
-	      <ul class="thumbnails d-flex">
-		{% for thumbnail in page.images %}
-		<li class="d-inline-block">
-		  <img src="{{ thumbnail.thumbnail_path }}" 
-		       class="img-responsive rounded" 
-		       alt="{{ thumbnail.alt-text }}" 
-		       onClick="switchImg('{{ thumbnail.image_path }}', '{{ thumbnail.alt-text }}' );"/>
-		</li>
-		{% endfor %}
-	      </ul>
+    {% include header_cn.html %}
+    <body>
+	<div class="main-container">
+	    <div class="container-body">
+		<div class="columns">
+		    <div class="column col-9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto py-2">
+			{% include nav_cn.html %}
+			{% include nav-breadcrumbs_cn.html %}
+			<div class="columns prod-col">
+			    <div class="column col-sm-12 col-5 col-mx-auto">
+				<img id="large-img" class="centered img-responsive rounded" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
+				<ul class="thumbnails d-flex">
+				    {% for thumbnail in page.images %}
+				    <li class="d-inline-block">
+					<img src="{{ thumbnail.thumbnail_path }}" 
+					     class="img-responsive rounded" 
+					     alt="{{ thumbnail.alt-text }}" 
+					     onClick="switchImg('{{ thumbnail.image_path }}', '{{ thumbnail.alt-text }}' );"/>
+				    </li>
+				    {% endfor %}
+				</ul>
+			    </div>
+			    <div class="column col-sm-12 col-6 col-mx-auto">
+				<h1>{{ page.product-title }}</h1>
+				<h2 class="text-gray sub-head">{{ page.product-subtitle }}</h2>
+				<div class="divider"></div>
+				{{ content }}
+				<a href="/chinese/contact/" class="btn btn-primary btn-lg fill-width text-uppercase my-2">询问价格</a>
+			    </div>
+			</div>
+		    </div>
+		</div>
 	    </div>
-	    <div class="column col-sm-12 col-6 col-mx-auto">
-	      <h1>{{ page.product-title }}</h1>
-	      <h2 class="text-gray sub-head">{{ page.product-subtitle }}</h2>
-	      <div class="divider"></div>
-	      {{ content }}
-	      <a href="/chinese/contact/" class="btn btn-primary btn-lg fill-width text-uppercase my-2">询问价格</a>
-	    </div>
-	  </div>
+	    {% include footer_cn.html %}
 	</div>
-      </div>
-      {% include footer_cn.html %}
-    </div>
 
-  </body>
+    </body>
 
 </html>
