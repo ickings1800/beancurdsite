@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: 晨阳食品私人有限公司 | 晨阳预备炸豆腐（3条装）
+crumbtitle: 预备炸豆腐（3条装）
 layout: product_cn
 permalink: /chinese/products/readyfry3/
 description: 预备炸豆腐是我们最新的产品，目的是来协助厨师快速的准备使用炸豆腐的菜肴。炸豆腐是一件复杂和繁琐的过程，很多因素能影响最后所炸出来豆腐的品质。例如所用的油，油炸时间，技术等。

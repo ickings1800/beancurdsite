@@ -49,3 +49,9 @@ defaults:
       path: "assets/images"
     values:
       image: true
+
+
+breadcrumbs:
+  root:
+    hide: true  # show breadcrumbs on root/home page
+    image: false # Show image or title text

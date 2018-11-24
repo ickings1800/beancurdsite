@@ -3,11 +3,12 @@
   {% include header_en.html %}
   <body>
     <div class="main-container">
-      <div class="container-body">
-	{% include nav_en.html %}
-	<div class="column col-10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
-	  <div class="columns prod-col">
-	    <div class="column col-sm-12 col-5 col-mx-auto">
+	<div class="container-body">
+	    {% include nav_en.html %}
+	    <div class="column col-10 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
+	      	{% include nav-breadcrumbs.html %}
+	    <div class="columns prod-col">
+		<div class="column col-sm-12 col-5 col-mx-auto">
 	      <img id="large-img" class="centered img-responsive rounded" src="{{ page.product-image-path }}" alt="{{ page.product-image-text }}" />
 	      <ul class="thumbnails d-flex">
 		{% for thumbnail in page.images %}

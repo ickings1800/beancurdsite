@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: 晨阳食品私人有限公司 | 晨阳菜香豆腐
+crumbtitle: 菜香豆腐
 layout: product_cn
 permalink: /chinese/products/caixiang/
 description: 菜香豆腐是专为餐厅及厨师而打造的产品。在厨房里自制手工豆腐是一件费时的过程。经过长期研究与实验后，我们配搭出来秘方适合厨师品味，让厨师能够集中的把豆腐的酱料准备好，省时省力。

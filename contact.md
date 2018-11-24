@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: Sun-Up Bean Food Manufacturing | Contact
+crumbtitle: contact
 layout: default
 permalink: /contact/
 description: Do feel free to call us or send an email regarding enquiries or request quotations for our product ranges.

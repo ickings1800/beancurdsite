@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: 晨阳食品私人有限公司 | 晨阳板豆腐
+crumbtitle: 板豆腐
 layout: product_cn
 permalink: /chinese/products/pressed/
 description: 板豆腐最适于蒸或汤类菜肴使用，例如酿豆腐。经济实用，因为豆腐在包装内封，新鲜度与品质能得到保证。

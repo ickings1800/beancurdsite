@@ -315,3 +315,24 @@ a {
 #large-img {
 	width:100%;
 }
+
+@media only screen and (max-width: 480px) {
+    .breadcrumb {
+	font-size:4vw;
+    }
+}
+
+@media only screen and (min-width:480px) {
+    .breadcrumb {
+	font-size:.7rem;
+    }
+}
+
+.breadcrumb li a:hover {
+    text-decoration:underline;
+}
+
+.inactive-link {
+    pointer-events:none;
+    cursor: default;
+}

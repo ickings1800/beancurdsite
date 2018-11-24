@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 title: 晨阳食品私人有限公司 | 晨阳煎炸豆腐
+crumbtitle: 煎炸豆腐
 layout: product_cn
 permalink: /chinese/products/deepfry/
 description: 煎炸豆腐是用特浓豆浆制成。油炸时，散发出浓郁的香味。油炸后，具有酥脆的外皮，嫩滑的口感以及类似豆花的香味。特别为厨师们的秘方而打造，让他们炸豆腐时能得心应手，节省时间。
