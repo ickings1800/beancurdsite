@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: 晨阳食品私人有限公司 | 公司详情
+title: 新加坡豆腐供应商 | 公司详情
 crumbtitle: 公司详情
 layout: default_cn
 permalink: /chinese/about/

@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
-title: Sun-Up Bean Food Manufacturing | About us
+title: Singapore Tofu Supplier | About us
 crumbtitle: about us
 layout: default
 permalink: /about/
