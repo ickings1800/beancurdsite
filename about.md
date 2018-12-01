@@ -6,7 +6,7 @@ title: Singapore Tofu Supplier | About us
 crumbtitle: about us
 layout: default
 permalink: /about/
-description: We are a Singapore-based company that manufactures and supply soybean products such as deep fried, silken and pressed tofu. Established in 2003, we initially manufactured traditional pressed cut tofu and deep fried tofu in Singapore.
+description: Our factory is in Singapore, manufacturing and supplying tofu products such as Deep Fried Tofu, Silken Tofu and Pressed Tofu to restaurants, distributors and stores locally. Established in 2003, we initially manufactured traditional pressed cut tofu and deep fried tofu in Singapore.
 ---
 
 
