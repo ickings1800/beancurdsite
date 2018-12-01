@@ -9,8 +9,8 @@ permalink: /chinese/products/readyfry3/
 description: 预备炸豆腐是我们最新的产品，目的是来协助厨师快速的准备使用炸豆腐的菜肴。炸豆腐是一件复杂和繁琐的过程，很多因素能影响最后所炸出来豆腐的品质。例如所用的油，油炸时间，技术等。
 product-title: 预备炸豆腐（3条装）
 product-subtitle: 适宜焖与炖
-product-image-text: 晨阳预备炸豆腐（3条装）
-product-image-path: /assets/images/Products/ReadyFriedBox/ReadyFriedBox.jpg
+product-image-text: 新加坡豆腐供应商晨阳预备炸豆腐（3条装）
+product-image-path: /assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box.jpg
 ---
 ### 产品说明:
 预备炸豆腐是我们最新的产品，目的是来协助厨师快速的准备使用炸豆腐的菜肴。
@@ -24,7 +24,7 @@ product-image-path: /assets/images/Products/ReadyFriedBox/ReadyFriedBox.jpg
 
 
 ### 产品详情:
-![晨阳预备炸豆腐酿豆腐例子](/assets/images/Products/ReadyFriedBox/productthumbnail.jpeg){:class="img-responsive prod-img"}
+![晨阳预备炸豆腐酿豆腐例子](/assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box-product-thumbnail.jpeg){:class="img-responsive prod-img"}
 - 净重：300克
 - 无防腐剂
 - 配料：

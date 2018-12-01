@@ -9,22 +9,22 @@ permalink: /chinese/products/pressed/
 description: 板豆腐最适于蒸或汤类菜肴使用，例如酿豆腐。经济实用，因为豆腐在包装内封，新鲜度与品质能得到保证。
 product-title: 板豆腐
 product-subtitle: 适宜汤与蒸
-product-image-text: 晨阳板豆腐
-product-image-path: /assets/images/Products/Pressed/Pressed.jpg
+product-image-text: 新加坡豆腐供应商晨阳板豆腐
+product-image-path: /assets/images/Products/Pressed/singapore-tofu-supplier-pressed-tofu.jpg
 images:
-  - image_path: /assets/images/Products/Pressed/Pressed.jpg
-    thumbnail_path: /assets/images/Products/Pressed/carousel/Pressed_tn.jpg
-    alt-text: Sun-Up Pressed Tofu
-  - image_path: /assets/images/Products/Pressed/carousel/DSC01447.jpg
-    thumbnail_path: /assets/images/Products/Pressed/carousel/DSC01447_tn.jpg
-    alt-text: Sun-Up Deep Fried Pressed Tofu Beancurd Background Product
+  - image_path: /assets/images/Products/Pressed/singapore-tofu-supplier-pressed-tofu.jpg
+    thumbnail_path: /assets/images/Products/Pressed/carousel/singapore-tofu-supplier-pressed-tofu_tn.jpg
+    alt-text: Sun-Up Singapore Tofu Supplier Pressed Tofu
+  - image_path: /assets/images/Products/Pressed/carousel/singapore-tofu-supplier-pressed-tofu-background-product.jpg
+    thumbnail_path: /assets/images/Products/Pressed/carousel/singapore-tofu-supplier-pressed-tofu-background-product_tn.jpg
+    alt-text: Sun-Up Singapore Tofu Supplier Deep Fried Pressed Tofu Beancurd Background Product
 ---
 ### 产品说明:
 板豆腐最适于蒸或汤类菜肴使用，例如酿豆腐。经济实用，因为豆腐在包装内封，新鲜度与品质能得到保证。
 
 
 ### 产品详情:
-![Sun-Up Pressed Tofu self-cut plate](/assets/images/Products/Pressed/productthumbnail.jpeg){:class="img-responsive prod-img"}
+![Sun-Up Singapore Tofu Supplier Pressed Tofu self-cut plate](/assets/images/Products/Pressed/sun-up-singapore-tofu-supplier-pressed-tofu-self-cut-plate.jpeg){:class="img-responsive prod-img"}
 - 净重：300克
 - 无防腐剂
 - 配料：

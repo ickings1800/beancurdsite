@@ -9,21 +9,21 @@ permalink: /chinese/products/deepfry/
 description: 煎炸豆腐是用特浓豆浆制成。油炸时，散发出浓郁的香味。油炸后，具有酥脆的外皮，嫩滑的口感以及类似豆花的香味。特别为厨师们的秘方而打造，让他们炸豆腐时能得心应手，节省时间。
 product-title: 煎炸豆腐
 product-subtitle: 适宜油炸与煎炸
-product-image-text: 晨阳煎炸豆腐青盒
-product-image-path: /assets/images/Products/DeepFry/DeepFried.jpg
+product-image-text: 新加坡豆腐供应商晨阳煎炸豆腐青盒
+product-image-path: /assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu.jpg
 images:
-  - image_path: /assets/images/Products/DeepFry/DeepFried.jpg
+  - image_path: /assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu.jpg
     thumbnail_path: /assets/images/Products/DeepFry/carousel/DeepFried_tn.jpg
-    alt-text: Sun-Up Deep Fried Tofu Beancurd
-  - image_path: /assets/images/Products/DeepFry/carousel/DSC01433.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01433_tn.jpg
-    alt-text: Sun-Up Deep Fried Tofu Beancurd Background Product With Rice
-  - image_path: /assets/images/Products/DeepFry/carousel/DSC01443.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/DSC01443_tn.jpg
-    alt-text: Sun-Up Deep Fried Tofu Beancurd Background With Rice
-  - image_path: /assets/images/Products/DeepFry/carousel/IMG_8641.JPG
-    thumbnail_path: /assets/images/Products/DeepFry/carousel/IMG_8641_tn.jpg
-    alt-text: Sun-Up Deep Fried Tofu Beancurd Chilli With Product
+    alt-text: Sun-Up Singapore Tofu Supplier Deep Fried Tofu
+  - image_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-background-product-with-rice.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-background-product-with-rice_tn.JPG
+    alt-text: Sun-Up Singapore Tofu Supplier Deep Fried Tofu Background Product With Rice
+  - image_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-background-with-rice.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-background-with-rice_tn.JPG
+    alt-text: Sun-Up Singapore Tofu Supplier Deep Fried Tofu Background With Rice
+  - image_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-chilli-with-product.JPG
+    thumbnail_path: /assets/images/Products/DeepFry/carousel/sun-up-singapore-tofu-supplier-deep-fried-tofu-chilli-with-product_tn.JPG
+    alt-text: Sun-Up Singapore Tofu Supplier Deep Fried Tofu Chilli With Product
 ---
 
 ### 产品说明:
@@ -33,7 +33,7 @@ images:
 
 
 ### 产品详情:
-![晨阳煎炸豆腐盘上](/assets/images/Products/DeepFry/productthumbnail.jpeg){:class="img-responsive prod-img"}
+![新加坡豆腐供应商晨阳煎炸豆腐盘上](/assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu-product-thumbnail.jpeg){:class="img-responsive prod-img"}
 - 净重：300克
 - 无防腐剂
 - 配料：

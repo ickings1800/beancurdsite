@@ -9,8 +9,8 @@ permalink: /chinese/products/caixiang/
 description: 菜香豆腐是专为餐厅及厨师而打造的产品。在厨房里自制手工豆腐是一件费时的过程。经过长期研究与实验后，我们配搭出来秘方适合厨师品味，让厨师能够集中的把豆腐的酱料准备好，省时省力。
 product-title: 菜香豆腐
 product-subtitle: 适宜铁板烧
-product-image-text: 晨阳菜香豆腐
-product-image-path: /assets/images/Products/CaiXiang/CaiXiang.jpg
+product-image-text: 新加坡豆腐供应商晨阳菜香豆腐
+product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu.jpg
 ---
 
 ### 产品说明:
