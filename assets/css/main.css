@@ -352,3 +352,9 @@ a {
 .footer-header {
     color:white;
 }
+
+#map {
+    height:100%;
+    width:100%;
+}
+
