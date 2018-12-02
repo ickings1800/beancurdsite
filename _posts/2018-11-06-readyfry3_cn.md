@@ -22,6 +22,10 @@ product-image-path: /assets/images/Products/ReadyFriedBox/singapore-tofu-supplie
 厨师只需准备搭配材料与再热炸豆腐，无需烦恼炸豆腐的品质。
 3条装使用盒装来保证产品新鲜度和长期使用。
 
+### 优势:
+- {:.checked} 保证优质品质
+- {:.checked} 生下炸豆腐时间
+- {:.checked} 厨师材料准备更快
 
 ### 产品详情:
 ![晨阳预备炸豆腐酿豆腐例子](/assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box-product-thumbnail.jpeg){:class="img-responsive prod-img"}

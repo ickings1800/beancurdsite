@@ -21,6 +21,10 @@ product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun
 当菜香豆腐与酱料烹煮在铁板烧上，散发出浓浓的黄豆与鸡蛋的香味能让顾客感到惊喜。
 菜香豆腐所使用的包装能保证产品的卫生与长期收藏。
 
+### 优势:
+- {:.checked} 鸡蛋豆腐取出来容易
+- {:.checked} 自制手制鸡蛋豆腐
+- {:.checked} 四方形鸡蛋豆腐
 
 ### 产品详情:
 - 净重：250克

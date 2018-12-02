@@ -22,6 +22,10 @@ images:
 ### 产品说明:
 板豆腐最适于蒸或汤类菜肴使用，例如酿豆腐。经济实用，因为豆腐在包装内封，新鲜度与品质能得到保证。
 
+### 优势:
+- {:.checked} 价格较便宜
+- {:.checked} 卫生
+- {:.checked} 使用期更持久
 
 ### 产品详情:
 ![Sun-Up Singapore Tofu Supplier Pressed Tofu self-cut plate](/assets/images/Products/Pressed/sun-up-singapore-tofu-supplier-pressed-tofu-self-cut-plate.jpeg){:class="img-responsive prod-img"}

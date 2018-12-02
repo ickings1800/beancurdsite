@@ -31,6 +31,11 @@ images:
 油炸后，具有酥脆的外皮，嫩滑的口感以及类似豆花的香味。
 特别为厨师们的秘方而打造，让他们炸豆腐时能得心应手，节省时间。
 
+### 优势:
+- {:.checked} 炸豆腐时不会破
+- {:.checked} 使用的油更持久
+- {:.checked} 豆腐油炸起来容易
+- {:.checked} 炸起来后水分还在内
 
 ### 产品详情:
 ![新加坡豆腐供应商晨阳煎炸豆腐盘上](/assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu-product-thumbnail.jpeg){:class="img-responsive prod-img"}
