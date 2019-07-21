@@ -26,6 +26,7 @@ product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun
 - {:.checked} 自制手制鸡蛋豆腐
 - {:.checked} 四方形鸡蛋豆腐
 
+![Sun-Up Singapore Tofu Supplier CaiXiang Tofu](/assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu-product-thumbnail.jpeg){:class="img-responsive prod-img"}
 ### 产品详情:
 - 净重：250克
 - 无防腐剂
