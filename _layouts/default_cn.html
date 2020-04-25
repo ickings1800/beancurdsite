@@ -1,20 +1,13 @@
 <!DOCTYPE html>
 <html lang="zh-Hans">
-    <head>
-	{% include header_cn.html %}
-    </head>
+  <head>
+  {% include header.html %}
+  </head>
   <body>
-    <div class="main-container">
-      <div class="container-body">
-	  <div class="columns">
-              <div class="column col-9 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto py-2">
-		  {% include nav_cn.html %}
-		  {{ content }}
-              </div>
-	  </div>
-      </div>
-      {% include footer_cn.html %}
-    </div>
+  {% include nav_cn.html %}
+  <div class="main-container">
+  {{ content }}
+  </div>
+  {% include footer_cn.html %}
   </body>
-
 </html>

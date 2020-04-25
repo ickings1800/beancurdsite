@@ -1,0 +1,73 @@
+featured:
+  - name: Japanese Silken Tofu
+    purpose: For Soup and Steaming
+    alt-text: Singapore Tofu Supplier Sun-Up Silken Tofu Thumbnail
+    img-src: /assets/images/Products/Silken/singapore-tofu-supplier-sun-up-silken-tofu-thumbnail.jpeg
+    url: /products/silken/
+    name_cn: 日本豆腐
+    purpose_cn: 适宜汤与蒸
+    alt-text_cn: 新加坡豆腐供应商晨阳日本豆腐缩略图
+    url_cn: /chinese/products/silken/
+
+  - name: Deep Fried Tofu
+    purpose: For Deep and Pan Fry
+    alt-text: Singapore Tofu Supplier Sun-Up Deep Fried Tofu Thumbnail
+    img-src: /assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu-thumbnail.jpeg
+    url: /products/deepfry/
+    name_cn: 煎炸豆腐
+    purpose_cn: 适宜油炸与煎炸
+    alt-text_cn: 新加坡豆腐供应商晨阳煎炸豆腐缩略图
+    url_cn: /chinese/products/deepfry/
+
+
+  - name: Pressed Tofu
+    purpose: For Soup and Steaming
+    alt-text: Singapore Tofu Supplier Sun-Up Firm Pressed Tofu Thumbnail
+    img-src: /assets/images/Products/Pressed/singapore-tofu-supplier-sun-up-firm-pressed-tofu-thumbnail.jpeg
+    url: /products/pressed/
+    name_cn: 板豆腐
+    purpose_cn: 适宜汤与蒸
+    alt-text_cn: 新加坡豆腐供应商晨阳板豆腐缩略图
+    url_cn: /chinese/products/pressed/
+
+  - name: Egg Tofu
+    purpose: For Hotplate and Claypot
+    alt-text: Singapore Tofu Supplier Sun-Up Egg Tofu Thumbnail
+    img-src: /assets/images/Products/EggTofu/singapore-tofu-supplier-sun-up-egg-tofu-thumbnail.jpg
+    url: /products/eggtofu/
+    name_cn: 鸡蛋豆腐
+    purpose_cn: 适宜铁板烧与砂煲
+    alt-text_cn: 新加坡豆腐供应商晨阳鸡蛋豆腐缩略图
+    url_cn: /chinese/products/eggtofu/
+
+
+new:
+  - name: <i>Cai Xiang</i> Tofu
+    purpose: For Hotplate
+    alt-text: Singapore Tofu Supplier Sun-Up CaiXiang Tofu Thumbnail
+    img-src: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu-thumbnail.jpg
+    url: /products/caixiang/
+    name_cn: 菜香豆腐
+    purpose_cn: 适宜铁板烧
+    alt-text_cn: 新加坡豆腐供应商晨阳菜香豆腐缩略图
+    url_cn: /chinese/products/caixiang/
+
+  - name: Ready Fried Tofu (3pcs)
+    purpose: For Braising
+    alt-text: Singapore Tofu Supplier Sun-Up Ready Fried Tofu Box Thumbnail
+    img-src: /assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box-thumbnail.jpeg
+    url: /products/readyfry3/
+    name_cn: 预备炸豆腐（3条装）
+    purpose_cn: 适宜焖与炖
+    alt-text_cn: 新加坡豆腐供应商晨阳预备炸豆腐缩略图3条装
+    url_cn: /chinese/products/readyfry3/
+
+  - name: Ready Fried Tofu (20pcs)
+    purpose: For Braising
+    alt-text: Singapore Tofu Supplier Sun-Up Ready Fried Tofu Vacuum Thumbnail
+    img-src: /assets/images/Products/ReadyFriedStack/singapore-tofu-supplier-sun-up-ready-fried-tofu-vacuum-thumbnail.jpeg
+    url: /products/readyfry20/
+    name_cn: 预备炸豆腐（20条装）
+    purpose_cn: 适宜焖与炖
+    alt-text_cn: 新加坡豆腐供应商陈阳预备炸豆腐缩略图20条装
+    url_cn: /chinese/products/readyfry20/

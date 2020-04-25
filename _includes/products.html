@@ -1,98 +1,37 @@
-<div class="columns">
-	<h1 class="column col-12">Products</h1>
-	<div class="column col-8 col-xs-12 col-sm-12 col-md-12 col-lg-12 col-mx-auto">
-        <div class="columns">
-            <h2 class="column col-12 hide-xs">Featured</h2>
-            <div class="column col-12 divider hide-xs"></div>
-            <div class="column col-4 col-xs-12">
-                <a href="/products/silken/" class="product-link">
-                    <div class="columns">
-                        <div class="column col-xs-4 col-12">
-                            <img src="/assets/images/Products/Silken/singapore-tofu-supplier-sun-up-silken-tofu-thumbnail.jpeg" class="img-resrponsive centered product-img" alt="Singapore Tofu Supplier Sun-Up Silken Tofu Thumbnail">
-                        </div>
-                        <div class="column col-xs-8 col-md-12">
-                            <div class="column col-xs-12 col-12 h3 text-center">Japanese Silken Tofu</div>
-                            <div class="column col-xs-12 col-12 text-gray text-center">For Soup and Steaming</div>
-                        </div>
-                    </div>
-                </a>
+<h1>Products</h1>
+<div>
+    <div class="h3 my-2">Featured</div>
+    <div class="product-flex">
+        {% for product in site.data.products.featured %}
+        <a class="product product-link" href="{{ product.url }}">
+            <div class="product-img">
+                <img src="{{ product.img-src }}"
+                class="img-responsive"
+                alt="{{ product.alt-text }}"/>
             </div>
-            <div class="divider column col-xs-12 py-2 show-xs"></div>
-            <div class="column col-4 col-xs-12">
-                <a href="/products/deepfry/" class="product-link">
-
-                    <div class="columns">
-                        <div class="column col-xs-4 col-12">
-                            <img src="/assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu-thumbnail.jpeg" class="img-responsive centered product-img" alt="Singapore Tofu Supplier Sun-Up Deep Fried Tofu Thumbnail">
-                        </div>
-                        <div class="column col-xs-8 col-md-12">
-                            <div class="column col-xs-12 col-12 h3 text-center">Deep Fried Tofu</div>
-                            <div class="column col-xs-12 col-12 text-gray text-center">For Deep and Pan Fry</div>
-                        </div>
-                    </div>
-                <div class="divider column col-xs-12 py-2 show-xs"></div>
-                </a>
+            <div class="product-text">
+                <div class="h3">{{ product.name }}</div>
+                <span class="text-gray">{{ product.purpose }}</span>
             </div>
-                <div class="column col-4 col-xs-12">
-                    <a href="/products/pressed/" class="product-link">
-                        <div class="columns">
-                            <div class="column col-xs-4 col-12">
-                                <img src="/assets/images/Products/Pressed/singapore-tofu-supplier-sun-up-firm-pressed-tofu-thumbnail.jpeg" class="img-responsive centered product-img" alt="Singapore Tofu Supplier Sun-Up Firm Pressed Tofu Thumbnail">
-                            </div>
-                            <div class="column col-xs-8 col-md-12">
-                                <div class="column col-xs-12 col-12 h3 text-center">Pressed Tofu</div>
-                                <div class="column col-xs-12 col-12 text-gray text-center">For Soup and Steaming</div>
-                            </div>
-                        </div>
-                    </a>
+        </a>
+        {% endfor %}
+    </div>
+</div>
+<div>
+    <div class="h3 my-2">New</div>
+    <div class="product-flex">
+        {% for product in site.data.products.new %}
+        <a class="product product-link" href="{{ product.url }}">
+            <div class="product-img">
+                <img src="{{ product.img-src }}"
+                class="img-responsive"
+                alt="{{ product.alt-text }}"/>
             </div>
-            <div class="divider column col-xs-12 py-2 show-xs"></div>
-            <h2 class="column col-12 product-header hide-xs">New</h2>
-            <div class="column col-12 divider hide-xs"></div>
-                <div class="column col-4 col-xs-12">
-                    <a href="/products/caixiang/" class="product-link">
-
-                        <div class="columns">
-                            <div class="column col-xs-4 col-12">
-                                <img src="/assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu-thumbnail.jpg" class="img-responsive centered product-img" alt="Singapore Tofu Supplier Sun-Up CaiXiang Tofu Thumbnail">
-                            </div>
-                            <div class="column col-xs-8 col-md-12">
-                                <div class="column col-xs-12 col-12 h3 text-center"><i>Cai Xiang</i> Tofu</div>
-                                <div class="column col-xs-12 col-12 text-gray text-center">For Hotplate</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            <div class="divider column col-xs-12 py-2 show-xs"></div>
-                <div class="column col-4 col-xs-12">
-                    <a href="/products/readyfry3/" class="product-link">
-
-                        <div class="columns">
-                            <div class="column col-xs-4 col-12">
-                                <img src="/assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box-thumbnail.jpeg" class="img-responsive centered product-img" alt="Singapore Tofu Supplier Sun-Up Ready Fried Tofu Box Thumbnail">
-                            </div>
-                            <div class="column col-xs-8 col-md-12">
-                                <div class="column col-xs-12 col-12 h3 text-center">Ready Fried  Tofu (3pcs)</div>
-                                <div class="column col-xs-12 col-12 text-gray text-center">For Braising</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            <div class="divider column col-xs-12 py-2 show-xs"></div>
-                <div class="column col-4 col-xs-12">
-                    <a href="/products/readyfry20/" class="product-link">
-                        <div class="columns">
-                            <div class="column col-xs-4 col-12">
-                                <img src="/assets/images/Products/ReadyFriedStack/singapore-tofu-supplier-sun-up-ready-fried-tofu-vacuum-thumbnail.jpeg" class="img-responsive centered product-img" alt="Singapore Tofu Supplier Sun-Up Ready Fried Tofu Vacuum Thumbnail">
-                            </div>
-                            <div class="column col-xs-8 col-md-12">
-                                <div class="column col-xs-12 col-12 h3 text-center">Ready Fried Tofu (20pcs)</div>
-                                <div class="column col-xs-12 col-12 text-gray text-center">For Braising</div>
-                            </div>
-                        </div>
-                    </a>
-                </div>
-            <div class="divider column col-xs-12 py-2 show-xs"></div>
-        </div>
+            <div class="product-text">
+                <div class="h3">{{ product.name }}</div>
+                <span class="text-gray">{{ product.purpose }}</span>
+            </div>
+        </a>
+        {% endfor %}
     </div>
 </div>

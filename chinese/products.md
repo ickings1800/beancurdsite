@@ -8,5 +8,4 @@ layout: default_cn
 permalink: /chinese/products/
 description: 了解更多关于我们销售和新产品系列，如日本豆腐，板豆腐，煎炸豆腐等。
 ---
-
 {% include chinese/products.html %}
