@@ -5,7 +5,7 @@
 title: 新加坡豆腐供应商 | 晨阳食品私人有限公司‎
 crumbtitle: 首页
 layout: default_cn
-permalink: /chinese
+permalink: /chinese/
 description: 晨阳食品公司是一家新加坡所成立的公司，专门生产与供应黄豆类似的产品，例如油炸，充填豆腐与板豆腐。 
 ---
 {% include chinese/index.html %}
