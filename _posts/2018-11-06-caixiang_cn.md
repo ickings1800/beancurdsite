@@ -23,7 +23,7 @@ product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun
 
 ### 优势:
 - {:.checked} 鸡蛋豆腐取出来容易
-- {:.checked} 自制手制鸡蛋豆腐
+- {:.checked} 自制鸡蛋豆腐
 - {:.checked} 四方形鸡蛋豆腐
 
 ![Sun-Up Singapore Tofu Supplier CaiXiang Tofu](/assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu-product-thumbnail.jpeg){:class="img-responsive prod-img"}
@@ -31,6 +31,6 @@ product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun
 - 净重：250克
 - 无防腐剂
 - 配料：
-- 非转基因黄豆，硫酸钙， 鸡蛋
+- 非转基因黄豆，盐， 鸡蛋
 - 冷藏保温2℃~7℃
 
