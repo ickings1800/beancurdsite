@@ -8,4 +8,17 @@ layout: default_cn
 	<div class="column col-sm-12 col-6">
 		<iframe id="map" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.77182752851!2d103.632303!3d1.3123168!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x7dc3ba25729f2a6e!2sSun-Up+Bean+Food+Manufacturing!5e0!3m2!1sen!2ssg!4v1543710137532" frameborder="0" style="border:0" allowfullscreen></iframe>
 	</div>
+	<div class="column col-sm-12 col-12 form-group">
+		<h2 class="my-2">询问表格</h2>
+		<form name="contact_cn" method="POST" data-netlify="true">
+		    <label class="form-label">姓名:</label>
+		    <input class="form-input" type="text" name="name" placeholder="请写下名字" required="true" />   
+		    <label class="form-label">电邮:</label>
+		    <input class="form-input" type="email" name="email" placeholder="请写下电邮" required="true" />
+		    <label class="form-label">内容:</label>
+		    <textarea class="form-input" name="message" rows="5" placeholder="请写下内容" required="true"></textarea>
+		    <label class="form-label">我们会在 1 到 3 天之内回复您的询问, 请注意您的收件箱！</label>
+		    <button class="btn btn-lg text-uppercase btn-primary my-2" type="submit">询问</button>
+		</form>
+	</div>
 </div>
