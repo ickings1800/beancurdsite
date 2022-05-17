@@ -11,6 +11,7 @@ product-title: 预备炸豆腐（3条装）
 product-subtitle: 适宜焖与炖
 product-image-text: 新加坡豆腐供应商晨阳预备炸豆腐（3条装）
 product-image-path: /assets/images/Products/ReadyFriedBox/singapore-tofu-supplier-sun-up-ready-fried-tofu-box.jpg
+product-lazada-url: https://www.lazada.sg/products/sun-up-ready-fried-tofu-3pcs-300g-for-braising-i2159402000-s12344587337.html
 ---
 ### 产品说明:
 预备炸豆腐是我们最新的产品，目的是来协助厨师快速的准备使用炸豆腐的菜肴。

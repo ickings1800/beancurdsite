@@ -11,6 +11,7 @@ product-title: 煎炸豆腐
 product-subtitle: 适宜油炸与煎炸
 product-image-text: 新加坡豆腐供应商晨阳煎炸豆腐青盒
 product-image-path: /assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu.jpg
+product-lazada-url: https://www.lazada.sg/products/sun-up-deep-fried-tofu-300g-for-deep-and-pan-fry-i2159419650-s12344589167.html
 images:
   - image_path: /assets/images/Products/DeepFry/singapore-tofu-supplier-sun-up-deep-fried-tofu.jpg
     thumbnail_path: /assets/images/Products/DeepFry/carousel/DeepFried_tn.jpg
