@@ -11,7 +11,7 @@ product-title: 鸡蛋豆腐
 product-subtitle: 适宜铁板烧与砂煲
 product-image-text: 新加坡豆腐供应商晨阳鸡蛋豆腐
 product-image-path: /assets/images/Products/EggTofu/singapore-tofu-supplier-sun-up-egg-tofu.jpg
-product-lazada-url: https://www.lazada.sg/products/sun-up-egg-tofu-130g-for-hotplate-and-claypot-i2159531612-s12344568377.html
+
 ---
 
 ### 产品说明:

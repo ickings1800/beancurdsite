@@ -11,7 +11,7 @@ product-title: 板豆腐
 product-subtitle: 适宜汤与蒸
 product-image-text: 新加坡豆腐供应商晨阳板豆腐
 product-image-path: /assets/images/Products/Pressed/singapore-tofu-supplier-pressed-tofu.jpg
-product-lazada-url: https://www.lazada.sg/products/sun-up-pressed-tofu-300g-for-soup-and-steaming-i2159514526-s12344573861.html
+
 images:
   - image_path: /assets/images/Products/Pressed/singapore-tofu-supplier-pressed-tofu.jpg
     thumbnail_path: /assets/images/Products/Pressed/carousel/singapore-tofu-supplier-pressed-tofu_tn.jpg
