@@ -11,7 +11,7 @@ product-title: 菜香豆腐
 product-subtitle: 适宜铁板烧
 product-image-text: 新加坡豆腐供应商晨阳菜香豆腐
 product-image-path: /assets/images/Products/CaiXiang/singapore-tofu-supplier-sun-up-caixiang-tofu.jpg
-
+product-lazada-url: https://www.lazada.sg/products/sun-up-silken-tofu-with-egg-250g-for-hotplate-i2159522687-s12344609240.html
 ---
 
 ### 产品说明:
